@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "470793904914",
+    "firebase_url": "https://winzokuchbhi.firebaseio.com",
+    "project_id": "winzokuchbhi",
+    "storage_bucket": "winzokuchbhi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470793904914:android:6a5baf6d99acfe725409cb",
+        "android_client_info": {
+          "package_name": "com.example.winzokuchbhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470793904914-7qrppnjv0j3lqhe3a1a588qcvtmi9cup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.winzokuchbhi",
+            "certificate_hash": "16a9b0addcaea5330cee3415bbefb0c9cf59378b"
+          }
+        },
+        {
+          "client_id": "470793904914-3eruoo3pbuqrs3gvi1d2easme19n5n19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-610Sj7yqqj28sJ5cVvr8GpkHQnyFIJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470793904914-3eruoo3pbuqrs3gvi1d2easme19n5n19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

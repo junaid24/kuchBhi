@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WinzoKuchBhi</string>
+    <string name="FCM_PREF">FCM Pref</string>
+    <string name="FCM_TOKEN">FCM Token</string>
+</resources>
